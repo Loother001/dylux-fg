@@ -12,12 +12,7 @@
 <a href="https://github.com/FG98F/dylux-fg/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FG98F/dylux-fg?label=Watching&style=social"></a>
 </p>
 
-2. Scan the QR and upload dylux.data.json to your fork(will recieve it on your bot number after scanning)
-
-    <br>
-
-<a href='https://replit.com/@NawaB497/dylux-fg#README.md' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
+1. ***Get [SESSION-ID](https://secktoruserbot.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 <h3 align="center">WHATSAPP BOT</h3>
 
 ***
