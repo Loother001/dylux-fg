@@ -6,26 +6,26 @@ m.reply(`
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
 ▢ Grupo *1*
-https://chat.whatsapp.com/IO9jmpI72ejHiN4unRZleU
+https://chat.whatsapp.com/Ds8Zc29apIvHSFNByv8SEO
 
 ▢ Grupo *2*
-https://chat.whatsapp.com/CDUqNRu5Kh5KY5uqQI0BKE
+https://chat.whatsapp.com/Ds8Zc29apIvHSFNByv8SEO
 
 ▢ Grupo *NSFW* 🔞
-https://chat.whatsapp.com/F0JTTyZ3hsoL7OlU8TEpuH
+923247653527
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
 ▢ Todos los Grupos
- https://instabio.cc/fg98ff
+ 923247653527
 
 ▢ *Telegram*
-• https://t.me/fgawgp
+• 923466056497
 
  ▢ *PayPal*
-• https://paypal.me/fg98f
+• 923247653527
 
 ▢ *YouTube*
-• https://www.youtube.com/fg98f`)
+• https://chat.whatsapp.com/Ds8Zc29apIvHSFNByv8SEO`)
 
 }
 handler.help = ['support']
