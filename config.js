@@ -25,8 +25,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'DyLux┃ᴮᴼᵀ' 
-global.author = '@fg98' 
+global.packname = 'MUBASHIR┃03247653527' 
+global.author = '@MUBASHIR NAWAB' 
 global.fgig = '▢ Sígueme en Instagram\nhttps://chat.whatsapp.com/Ds8Zc29apIvHSFNByv8SEO\n' 
 global.dygp = 'https://chat.whatsapp.com/Ds8Zc29apIvHSFNByv8SEO'
 global.fgsc = 'https://chat.whatsapp.com/Ds8Zc29apIvHSFNByv8SEO' 
