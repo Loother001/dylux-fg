@@ -28,17 +28,17 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-◈ ━━━━━ *DyLux  ┃ ᴮᴼᵀ* ━━━━━ ◈
+◈ ━━━━━ *MUBASHIR  ┃NAWAB * ━━━━━ ◈
  
 👋🏻 _Hola_ *%name*
 🧿 Nivel : *%level* 
 👥 Usuarios : %totalreg
 📈 Tiempo activo : %muptime
 ─────────────
-▢ Crea tu propio bot 
-• https://youtu.be/xFqjKN1Qt80
-▢ Descarga *FGWhatsApp*
-• https://fgmods.epizy.com
+▢ My WhatsApp number 
+• wa.me/+923247653527
+▢ Descarga *Telegram*
+• t.me/+923466056497
 ─────────────
 %readmore
 Ⓟ = Premium
