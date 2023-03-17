@@ -2,7 +2,7 @@
 let handler = async (m, { conn }) => {
 
 m.reply(`
-≡  *DyLuxᴮᴼᵀ ┃ SUPPORT*
+≡  *MUBASHIR NAWAB SUPPORT*
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
 ▢ Grupo *1*
@@ -21,8 +21,8 @@ https://chat.whatsapp.com/Ds8Zc29apIvHSFNByv8SEO
 ▢ *Telegram*
 • 923466056497
 
- ▢ *PayPal*
-• 923247653527
+ ▢ *Easypaisa*
+• 03466056497
 
 ▢ *YouTube*
 • https://chat.whatsapp.com/Ds8Zc29apIvHSFNByv8SEO`)
