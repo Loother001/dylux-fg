@@ -52,7 +52,7 @@ let infobt = `
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *FG98*
+  *MUBASHIR NAWAB*
 ▢ Instagram :
   • https://chat.whatsapp.com/Ds8Zc29apIvHSFNByv8SEO
 ▢ WhatsApp :
@@ -83,7 +83,7 @@ ${'```' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.m
 `
 conn.sendButton(m.chat, infobt, fgig, null, [
   ['ꨄ︎ Apoyar', `${usedPrefix}donate`],
-   ['⌬ Grupos', `${usedPrefix}gpdylux`]
+   ['⌬ INFO', `${usedPrefix}INFO`]
  ], m)
 
 }
